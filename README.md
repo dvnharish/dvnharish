@@ -19,6 +19,60 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dvnharish/](https://www.linkedin.com/in/dvnharish/)
 
+**Key Skills and Expertise**
+
+- **Software Development Life Cycle (SDLC):** With over 12 years of experience, I've successfully navigated all phases of SDLC, from Requirement Analysis to Implementation and Testing. I specialize in Object-Oriented Programming, Java/J2EE, and Cloud technologies, with hands-on expertise in PL/SQL.
+
+- **Architectural Excellence:** I've designed and built scalable, highly available, resilient, and high-performance multi-tier enterprise solutions. My solutions prioritize scalability, fault tolerance, and performance.
+
+- **Microservices and Monolithic Applications:** Proficient in designing, developing, and testing microservices and monolithic-based applications using Spring, Spring Boot, Spring Cloud, and Hibernate JPA.
+
+- **IoT Platforms:** I've served as an architect for IoT platforms, particularly in Connected Cars and Connected Services, involving comprehensive PL/SQL database management solutions.
+
+- **AWS Proficiency:** Experienced in AWS, including Serverless architecture (AWS Lambda, DynamoDB, API Gateway) and various AWS services such as EC2, IAM, S3, RDS, SNS, and SQS.
+
+- **Database Management:** Expertise in relational database management, covering MySQL, Oracle, DB2, and PL/SQL optimization.
+
+- **Open-Source Advocate:** A strong advocate for open-source technologies, I believe in leveraging open-source solutions to reduce costs and enhance application efficiency.
+
+- **Automation and DevOps:** Skilled in automation with Bash, Python, and PowerShell, using SCM tools like GIT and Subversion. Proficient with Jenkins and Docker for CI/CD.
+
+- **AWS Certification:** An AWS Certified Solutions Architect with the knowledge and skills to design scalable AWS solutions.
+
+- **Testing Expertise:** Proficient in writing test cases using REST-assured, JUnit, and Mockito, with experience in designing integration test scenarios for RESTful services.
+
+**Professional Experience**
+
+I have a track record of successful contributions in various roles:
+
+- **GlaxoSmithKline (Senior Software Engineer):** Led the development of Java/J2EE projects, improving application maintainability and reliability. Enhanced security and conducted SQL tuning activities.
+
+- **Robert Bosch (Specialist):** Delivered projects in the Automotive Aftermarket Domain, optimized backend operations, and established a serverless architecture for accident detection.
+
+- **TATA Consultancy Services (IT Analyst):** Spearheaded REST-Assured documentation and server-side validation, reducing development and testing time. Modularized monolithic applications into microservices.
+
+- **State Street (Software Engineer):** Migrated legacy applications to Spring Boot, implemented CI/CD pipelines, and developed a common framework named OSA-Resiliency.
+
+- **Phoenix IT Solutions (Programmer Analyst):** Improved utility domain systems, increased code coverage with test cases, and incorporated Swagger documentation.
+
+**Education**
+
+- **Masters of Technology (JNTU-Kakinada):** Completed projects in Image Annotations using Machine Learning and RDF-Based E-Commerce Web Application.
+
+**GitHub Contributions**
+
+I actively contribute to open-source projects on GitHub, fixing critical bugs, adding new features, and improving documentation.
+
+**Goals**
+
+My goal is to continue pushing the boundaries of technology, staying at the forefront of innovation, and contributing to projects that make a meaningful impact. I'm excited about what the future holds in the ever-evolving world of technology.
+
+**Connect with Me**
+
+Feel free to connect with me on [LinkedIn](linkedin.com/in/dvnharish) and explore my projects on [GitHub](https://github.com/yourusername).
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dvnharish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dvnharish" height="30" width="40" /></a>
