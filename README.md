@@ -8,7 +8,8 @@ Lead Java / Principal Software Engineer with 14+ years of experience architectin
 </p>
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=dvnharish" alt="dvnharish" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dvnharish&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </a>
 </p>
 <p align="left">
