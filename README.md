@@ -1,22 +1,25 @@
-
 <h1 align="center">Hi 👋, I'm Venkat Duddupudi</h1>
+
 <h3 align="center">
 Lead Java / Principal Software Engineer with 14+ years of experience architecting, building, optimizing, and scaling enterprise-grade backend platforms. I specialize in Java, Spring Boot, Hibernate ORM, and PostgreSQL, with deep expertise in performance engineering, distributed systems, and reliability. I thrive in solving complex system design challenges, mentoring engineers, and enabling AI-driven backend platforms that operate reliably at scale.
 </h3>
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=dvnharish&label=Profile%20views&color=0e75b6&style=flat" alt="dvnharish" />
-</p>
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dvnharish&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dvnharish&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="left">
-<a href="https://twitter.com/" target="blank">
-<img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-</a>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dvnharish&theme=onedark&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
+
 
 ---
 
