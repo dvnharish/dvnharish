@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvnharish&label=Profile%20views&color=0e75b6&style=flat" alt="dvnharish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=dvnharish](https://github-profile-trophy.vercel.app/?username=dvnharish=flat)" alt="dvnharish" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Elavon Agent Toolkit SDK – API Reference for MCP Tool](https://github.com/dvnharish/epg-sdk.git)
