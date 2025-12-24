@@ -20,7 +20,91 @@
 - 💬 Ask me about **Java, Spring Boot, Hibernate, PostgreSQL, System Design, Performance Tuning, Distributed Systems, Microservices, and Backend Architecture**
 
 - 📫 How to reach me **venkatworks.ca@gmail.com**
-
+---
+## **Key Skills and Expertise**
+### **Software Development Life Cycle (SDLC)**
+14+ years of experience owning the full SDLC—from requirements analysis and system design to implementation, optimization, production support, and modernization of large-scale enterprise systems.
+### **Principal-Level Architectural Excellence**
+* Designed and governed **scalable, fault-tolerant, and highly available** backend architectures
+* Strong ownership of **non-functional requirements**: performance, reliability, observability, and security
+* Led architectural reviews, performance audits, and technology selection decisions
+### **Java & Backend Engineering**
+* Java 8 / 11 / 17, Spring Boot 2.x / 3.x
+* Spring Data JPA, Hibernate ORM, Spring Security
+* REST APIs, OpenAPI, asynchronous and reactive programming
+### **Hibernate & PostgreSQL (Core Strength)**
+* Advanced Hibernate ORM usage:
+  * Second-level caching
+  * Fetch strategies and batch processing
+  * Transaction management, Criteria API, HQL optimization
+* PostgreSQL expertise:
+  * Schema design, indexing, partitioning
+  * Query tuning using `EXPLAIN ANALYZE`
+  * Connection pooling and high-load performance optimization
+### **Microservices & Distributed Systems**
+* Event-driven architectures using Kafka and Kafka Streams
+* Service-to-service communication, API gateways, and BFF patterns
+* Designed systems handling **millions of requests and events per day**
+### **Performance Engineering & Reliability**
+* JVM tuning, GC optimization, thread pool management
+* Redis-based caching strategies (read-through, write-behind)
+* SLO / SLI-driven monitoring using Prometheus, Grafana, ELK
+* Resilience patterns: retries, circuit breakers, graceful degradation
+### **AI-Leaning Engineering**
+* Backend integration for ML / AI models
+* Asynchronous inference pipelines and workload isolation
+* Data-intensive backend platforms supporting AI workflows
+### **Frontend & Full-Stack Exposure**
+* JavaScript, React
+* Next.js (API routes, SSR integration with backend services)
+* Backend-for-Frontend (BFF) architecture design
+### **Cloud & DevOps**
+* AWS and Azure
+* Docker, Kubernetes (AKS / EKS)
+* CI/CD pipelines using Jenkins and GitLab CI
+* Messaging systems: Kafka, RabbitMQ
+### **Testing & Quality**
+* JUnit, Mockito, REST-assured
+* Performance testing with Gatling and JMeter
+* Static analysis and quality gates (SonarQube)
+---
+## **Professional Experience**
+### **Codametrix (Accion Labs) — Senior Backend Java Engineer / Technical Lead**
+* Principal engineer owning backend architecture, performance, and reliability
+* Optimized Hibernate + PostgreSQL layers achieving **60–70% query performance improvement**
+* Designed platforms processing **5M+ records per day**
+* Integrated AI/ML workflows with asynchronous backend pipelines
+* Achieved **99.99% SLA** through resilience engineering and observability
+### **TD Bank — Senior Backend Java Engineer**
+* Built real-time observability platforms processing **10M+ events/day**
+* Designed sub-millisecond Kafka Streams processing pipelines
+* Implemented high-concurrency WebFlux services (100K+ connections)
+* Reduced response times by **80%** using Redis caching strategies
+### **GlaxoSmithKline (Excelra) — Senior Software Engineer**
+* Decomposed monoliths into **15+ microservices**
+* Hibernate & SQL tuning reduced database latency by **60%**
+* Led adoption of TDD (90% coverage) and CI/CD pipelines
+* Mentored teams on clean code and microservices best practices
+### **Robert Bosch — Software Specialist (IoT & Connected Cars)**
+* Architected ultra-low-latency IoT systems for **100K+ vehicles**
+* Event-driven safety alerts with p99 latency < 10ms
+* Kafka + MQTT ingestion at massive scale
+* Reduced infrastructure costs by **75%** through serverless optimization
+---
+## **Education**
+* **Master of Technology (M.Tech) – JNTU Kakinada**
+  Research in **Machine Learning-based Image Annotation Systems**
+---
+## **GitHub Contributions**
+I use GitHub to:
+* Share architectural patterns and backend design concepts
+* Experiment with performance optimization techniques
+* Build developer tooling, SDKs, and backend frameworks
+* Document learnings around distributed systems and AI-enabled platforms
+---
+## **Goals**
+My goal is to continue growing as a **Principal / Staff-level Engineer**, solving complex backend and platform-level problems, mentoring engineers, and building systems that operate reliably at massive scale.
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/venkatduddupudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkatduddupudi" height="30" width="40" /></a>
