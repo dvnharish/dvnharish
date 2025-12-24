@@ -9,8 +9,7 @@ Lead Java / Principal Software Engineer with 14+ years of experience architectin
 </p>
 
 <p align="center">
-    <img src="[https://github-profile-trophy.vercel.app/?username=dvnharish&theme=onedark&no-frame=true&column=6&margin-w=15&margin-h=15](https://github-profile-trophy.vercel.app/?username=dvnharish&theme=kimbie_dark)" alt="GitHub Trophies" />
-    
+  <img src="https://github-profile-trophy.vercel.app/?username=dvnharish&theme=onedark" alt="GitHub Trophies" />  
 </p>
 
 <p align="center">
