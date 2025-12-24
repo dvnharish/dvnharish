@@ -17,9 +17,11 @@ Lead Java / Principal Software Engineer with 14+ years of experience architectin
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
-[![GitHub stars](https://img.shields.io/github/stars/dvnharish/awesome-github-profile-readme-templates.svg)](https://github.com/dvnharish/awesome-github-profile-readme-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/dvnharish/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/dvnharish/awesome-github-profile-readme-templates/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/dvnharish/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/dvnharish/awesome-github-profile-readme-templates/network)
+
+
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/dvnharish/awesome-github-profile-readme-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/dvnharish/awesome-github-profile-readme-templates/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/dvnharish/awesome-github-profile-readme-templates/network)
 
 
 ---
