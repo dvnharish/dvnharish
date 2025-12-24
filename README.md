@@ -16,7 +16,9 @@ Lead Java / Principal Software Engineer with 14+ years of experience architectin
 <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
 </a>
 </p>
+
 ---
+
 * 🔭 I’m currently working on **High-Performance Backend Platforms, Distributed Systems, and AI-Enabled Architectures**
 * 🌱 I’m currently deepening my expertise in **Principal-Level System Design, Resilience Engineering, Chaos Testing, and AI Platform Architecture**
 * 👯 I’m looking to collaborate on **Microservices Platforms, Backend Architecture, Performance-Critical Systems, and Developer Tooling**
@@ -25,6 +27,7 @@ Lead Java / Principal Software Engineer with 14+ years of experience architectin
 * 📄 Know about my experiences
   👉 **LinkedIn:** [https://www.linkedin.com/in/venkatduddupudi/](https://www.linkedin.com/in/venkatduddupudi/)
 ---
+
 ## **Key Skills and Expertise**
 ### **Software Development Life Cycle (SDLC)**
 14+ years of experience owning the full SDLC—from requirements analysis and system design to implementation, optimization, production support, and modernization of large-scale enterprise systems.
@@ -106,9 +109,11 @@ I use GitHub to:
 * Build developer tooling, SDKs, and backend frameworks
 * Document learnings around distributed systems and AI-enabled platforms
 ---
+
 ## **Goals**
 My goal is to continue growing as a **Principal / Staff-level Engineer**, solving complex backend and platform-level problems, mentoring engineers, and building systems that operate reliably at massive scale.
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/venkatduddupudi" target="blank">
@@ -116,6 +121,7 @@ My goal is to continue growing as a **Principal / Staff-level Engineer**, solvin
 </a>
 </p>
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
