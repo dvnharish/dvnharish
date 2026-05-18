@@ -67,6 +67,10 @@
 * Static analysis and quality gates (SonarQube)
 ---
 ## **Professional Experience**
+### **FiniteState.io (Accion Labs) — Senior Backend Java Engineer / Technical Lead**
+* Led backend performance optimization initiatives for Java/Quarkus microservices, improving API efficiency through payload shaping, query batching, and resilient caching strategies.
+* Drove code quality and release readiness by performing PR governance, conflict resolution, root-cause debugging, and enforcing test/validation gates across CI pipelines.
+* Collaborated with product and engineering stakeholders to translate business requirements into scalable technical solutions, while maintaining production stability, observability, and secure coding standards.
 ### **Codametrix (Accion Labs) — Senior Backend Java Engineer / Technical Lead**
 * Principal engineer owning backend architecture, performance, and reliability
 * Optimized Hibernate + PostgreSQL layers achieving **60–70% query performance improvement**
